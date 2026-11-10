@@ -1,0 +1,6 @@
+{
+  "name": "CodePrint",
+  "description": "Independent software development and digital products brand turning practical ideas into useful software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
